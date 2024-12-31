@@ -1,6 +1,4 @@
 
-<img src="https://instagram.fath5-1.fna.fbcdn.net/v/t51.2885-19/451012127_501653308939243_5681013863589128681_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fath5-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AGHYw5xgHniMgT9TkC0fwwhtAdPh9CPhVxFxnEAtNjR_iq2nmXqd7LjM0HFyvcgWpU&_nc_ohc=-z8bJMGoptkQ7kNvgErYSLd&_nc_gid=5600d76147024249b5a6b8fa4b6e3408&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYAo_cFZBnQpvHDhpmFbgwfnlJ9hWteeRHZ6unlgN-x88g&oe=67798A5E&_nc_sid=7a9f4b" alt="Me (Dimitris)" width="100" style="border-radius:50%;">
-
 ### Hi there, I'm Dimitris 👋
 
 👨‍💻 **About Me:**
