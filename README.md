@@ -4,15 +4,15 @@
 👨‍💻 **About Me:**
 - 🏃‍♂️ I'm a student athlete, born in Greece in 2006.
 - 🌱 Currently pursuing a career in cybersecurity with a focus on penetration testing.
-- 💻 Intermediate full stack developer proficient in Python and JavaScript, with some experience in Bash scripting.
+- 💻 Intermediate full stack developer proficient in Python and JavaScript.
 
 👨‍🎓 **Education:**
-- 🏫 Learning about internet protocols and web safety measures to prepare for a master's degree in cybersecurity.
+- 🏫 Learning about internet protocols and web safety measures to prepare for a master's degree in cybersecurity. Interested in anything that's web-related.
 
 🔧 **Tech Stack:**
-- **Languages:** Python, JavaScript, Bash
-- **Frontend:** React, React Native, Next.js
-- **Backend:** Django, Flask
+- **Languages:** Python, JavaScript, Bash, Java
+- **Frontend:** React, React Native, Next.js (TS)
+- **Backend:** Django, Flask, NodeJS, Spring
 - **Version Control:** Git
 - **Databases:** SQL, NoSQL
 
