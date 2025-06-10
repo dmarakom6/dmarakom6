@@ -19,6 +19,7 @@
 🌟 **Projects:**
 - 📚 **eBookVerse:** An ebook webapp built using Django.
 - 🌐 **more.com.live:** My first React app.
+- 📝 **NOTED.** A front-end webapp for productivity enthusiasts.
 - 🚀 Various other web-based projects (currently in private repositories).
 
 📊 **GitHub Statistics:**
